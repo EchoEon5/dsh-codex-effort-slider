@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Codex effort slider",
+    "description": "Codex 风格推理滑块的自适应版：模型给几档就画几档（off / minimal / low / medium / high / xhigh / 自定义），最高一档统一叫 Ultra。"
+  }
+}

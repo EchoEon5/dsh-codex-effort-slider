@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "DSH Codex effort slider",
+    "description": "Codex-style reasoning slider that adapts to each model's own level count; the top level is always shown as Ultra."
+  }
+}
