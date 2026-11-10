@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) 2026 Nachoneko_miao
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+Original work: "DSH-Codex-reasoning-effort-slider" by Nachoneko_miao
+(https://github.com/bakabaicai/DSH-Codex-reasoning-effort-slider), MIT.
+
+Modified work: "dsh-codex-effort-slider" by EchoEon5
+(https://github.com/EchoEon5/dsh-codex-effort-slider), MIT.
+
+Changes: the reasoning-level whitelist was removed in favour of adapting to
+each model's own declared levels (rankEfforts / topOf / effortLabel in
+client.js), and the Ultra animation now follows the highest level instead of
+the hardcoded "max". The original copyright notice and this permission notice
+are retained as required by the MIT License.
